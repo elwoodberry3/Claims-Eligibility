@@ -2,7 +2,7 @@
   <img src="assets/images/thumbnail.png" alt="Built, not pitched. Watch the full workflow run.">
 </a>  
 
-# AI Claims & Eligibility Processing (03.03)
-## Healthcare Operations & Medical Billing 
+# AI Claims & Eligibility Processing
+### Healthcare Operations & Medical Billing (03.03)
 Extracts patient details from paperwork, verifies insurance active-status before delivery, and routes claims to the correct payer natively.  
 [Visit My Portfolio](https://i-automate-shit.com)  
