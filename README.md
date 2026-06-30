@@ -5,4 +5,4 @@
 # AI Claims & Eligibility Processing
 ### Healthcare Operations & Medical Billing (03.03)
 Extracts patient details from paperwork, verifies insurance active-status before delivery, and routes claims to the correct payer natively.  
-[Visit My Portfolio](https://i-automate-shit.com)  
+[See Full Build](https://adbyrdllc.wixstudio.com/iautomateshit/demos)  
